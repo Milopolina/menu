@@ -53,3 +53,23 @@
   background-color:#847c9e;
   transition: transform 0.3s;
 }
+
+
+
+
+
+.slaider{
+    width: 800px;
+    margin: 0 auto;
+    margin-top:200px;
+    text-align:center;
+}
+
+.photos img{
+    width: 100%;
+    display: none;
+}
+
+.photos img:first-child{
+    display:block;
+}
